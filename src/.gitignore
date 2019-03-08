@@ -1,3 +1,0 @@
-# ignore everything except named folders (which has their own .gitigore's) and .gitignore
-*
-!.gitignore
